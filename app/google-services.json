@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070635570960",
+    "project_id": "chugli-the-goosip",
+    "storage_bucket": "chugli-the-goosip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070635570960:android:6f15b7a37a98c988b5f795",
+        "android_client_info": {
+          "package_name": "com.example.chuglithegoosip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNu7IISZ16MVubZXvShcofAMuk94mISBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
